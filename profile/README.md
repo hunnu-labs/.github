@@ -1,12 +1,14 @@
-## Hi there 👋
+# hunnu-labs
 
-<!--
+A collection of projects exploring programming languages, compilers, and developer tools.
 
-**Here are some ideas to get you started:**
+## Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Project | Description |
+|---------|-------------|
+| [hunnu-lang](https://github.com/hunnu-labs/hunnu-lang) | A lightweight programming language written in C |
+
+
+## License
+
+MIT
